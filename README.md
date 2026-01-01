@@ -131,6 +131,17 @@ curl http://localhost:8080/events/{POLL_ID}
 
 This will keep the connection open and stream poll updates as votes are submitted.
 
+> ⚠️ **Note about cURL and SSE**
+>
+> When using `curl` with Server-Sent Events, output is **buffered by default**.
+> To receive events **in real time**, you must disable buffering:
+>
+> ```bash
+> curl -N http://localhost:8080/events/{POLL_ID}
+> ```
+>
+> Without the `-N` (`--no-buffer`) flag, events will only appear after the connection is closed.
+
 ---
 
 ## 📡 Real-Time Architecture
